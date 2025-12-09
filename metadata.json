@@ -1,0 +1,9 @@
+{
+  "name": "MediScan AI",
+  "description": "A comprehensive multimodal medical assistant for underserved communities, featuring symptom checking, medication safety scanning, and health tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
